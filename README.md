@@ -1,5 +1,3 @@
-# Mina_ATR
-
 Trabalho Final – Automação em Tempo Real (ATR)
 
 Sistema Embarcado de Automação para Caminhão Autônomo em Mina de Ferro
